@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Build/Android
+/Build_Android_ASTC (6-12-24)
+/Build
